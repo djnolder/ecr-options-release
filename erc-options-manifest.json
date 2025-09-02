@@ -5,7 +5,7 @@
   "author_profile": "https://github.com/djnolder",
   "donate_link": "https://github.com/sponsors/austinginder",
   "version": "1.0.0",
-  "download_url": "https://github.com/WPFreighter/wp-freighter/releases/download/v1.1/wp-freighter.zip",
+  "download_url": "https://github.com/djnolder/ecr-options-release/raw/refs/heads/main/ecr-options-1.0.0.zip",
   "requires": "5.6",
   "tested": "6.1",
   "requires_php": "5.6",
